@@ -1,2 +1,1 @@
-*.blend1
-*.blend2
+*.blend[0-9]
