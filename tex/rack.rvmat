@@ -8,7 +8,7 @@ PixelShaderID="Super";
 VertexShaderID="Super";
 class Stage0
 {
-	texture="server_rack\tex\rack.paa";
+	texture="server_rack\tex\rack_co.paa";
 	uvSource="tex";
 };
 class Stage1
